@@ -24,11 +24,14 @@ import { Component } from '@angular/core';
                   <tr><th>Опыт работы</th><td>2017 - продолжаю работать<br>КСШ №118<br>Учитель информатики</td></tr>
                   <tr><th>Навыки</th><td>
                       <ul>
-                      <li></li>
-                      <li></li>
-                      <li></li>
+                      <li>Разработка приложений на С++;</li>
+                      <li>Разработка приложений на С#; ASP.NET</li>
+                      <li>JavaScript</li>
+                      <li>Html CSS</li>
+                      <li>Angular</li>
                     </ul>
                   </td></tr>
+                  <tr><th>Ссылка на GitHub</th><a href="https://github.com/AlexZuk123">https://github.com/AlexZuk123</a></tr>
                 </table>
             </div>`,
   styles: [
